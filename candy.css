@@ -1,5 +1,5 @@
 body {
-  background: url(/images/background.jpg) center center/ cover no-repeat fixed;
+  background: url("/images/background.jpg") center center/ cover no-repeat fixed;
   min-height: 100vh;
   text-align: center;
   color: white;
