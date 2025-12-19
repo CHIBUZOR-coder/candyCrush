@@ -1,0 +1,15 @@
+//Detection Layer
+checkMatch(N)
+
+
+
+//Marking layer
+crushThree()
+crushFour()
+crushFive()
+
+
+//Resolution layer
+clearCrushedCandies()
+slideCandies()
+generateCandy()
